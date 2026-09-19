@@ -19,3 +19,4 @@ A Release 1.8.9 Resource pack that aims to combine the aesthetics of Beta and ea
 - me - texture edits
 - elenaberry - fluff clouds
 - mojang - for ruby textures and old sounds (taken from 12w21a files)
+- Sencie - old lightning
