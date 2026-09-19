@@ -1,5 +1,5 @@
 # Electrum  
-"Combining Gold and Silver"
+"Combine Gold and Silver"
 
 A Release 1.8.9 Resource pack that aims to combine the aesthetics of Beta and early Release Minecraft.
 
