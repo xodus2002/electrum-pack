@@ -22,9 +22,6 @@ lime_the_zeitgeist - cobblestone texture
 roboto - texture edits
 elenaberry - fluff clouds
 mojang - for ruby textures (taken from 12w21a files)
-sencie - old lightning
-thepoeticrainbow - Golden Days Base textures
-Not-So-Seecret-Saturday - for some textures
 
 ==================================================================================
 Copyleft, roboto @ raytek.cafe, 2026
