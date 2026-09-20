@@ -27,3 +27,4 @@ A Release 1.8.9 Resource pack that aims to combine the aesthetics of Beta and ea
 - mojang - for ruby textures and old sounds (taken from 12w21a files)
 - Sencie - old lightning
 - thepoeticrainbow - Golden Days Base textures
+- Not-So-Seecret-Saturday - for some textures
