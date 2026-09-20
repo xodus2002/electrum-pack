@@ -1,6 +1,10 @@
-# Electrum  
-"Combine Gold and Silver"
+<p align=center>
+  <img src="https://github.com/user-attachments/assets/a4ade0c7-f329-4f7c-9697-564a66732057"/>
+</p>
 
+<p align=center>
+  "Combine Gold and Silver"
+</p>
 A Release 1.8.9 Resource pack that aims to combine the aesthetics of Beta and early Release Minecraft.
 
 # What's added
